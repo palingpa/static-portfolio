@@ -25,3 +25,9 @@ a { color: var(--accent); }
 .projects { padding-left: 1.1rem; }
 footer { color: var(--muted); border-top: 1px solid #1e293b; margin-top: 2rem; }
 
+
+    @media (max-width: 640px) {
+      h1 { font-size: 1.8rem; }
+      header { padding-top: 2rem; }
+    }
+    
