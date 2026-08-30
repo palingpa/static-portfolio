@@ -8,7 +8,7 @@
 body {
   margin: 0;
   font-family: "Segoe UI", system-ui, sans-serif;
-  background: var(--bg);
+  background: radial-gradient(ellipse at top, #1e293b, var(--bg));
   color: var(--fg);
   line-height: 1.6;
 }
